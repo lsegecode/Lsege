@@ -15,3 +15,4 @@
 
 ### Languages and Tools:
 
+![<img align="lef" alt="Visual Studio Code" with= "26px"](Images/Visual_Studio_Code_0.10.1_icon.png)
