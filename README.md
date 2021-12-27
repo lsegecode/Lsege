@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, I'm Lucas - aka Lsege 👋
 
-<!--
-**Lsege/Lsege** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Systems Engineer student!
+- 🔭 I’m currently working on becoming a better person and professional
+- 🌱 I’m currently learning Data Science
+- 👯 I’m looking to collaborate with other developers
+- 🤔 I’m looking for help with getting my first job opportunities
+- 💬 Ask me about how do I look myself in five years
+- 🥅 2022 Goals: Contribute with open source projects
+- 📫 How to reach me: write me an email at sanabrialucas97@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love videogames and spending time with family
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools:
+
