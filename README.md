@@ -1,3 +1,5 @@
+**Readme in progress**
+
 ### Hi there, I'm Lucas - aka Lsege 👋
 
 ## I'm a Systems Engineer student!
@@ -15,4 +17,4 @@
 
 ### Languages and Tools:
 
-![<img align="lef" alt="Visual Studio Code" with="26px"](Images/Visual_Studio_Code_0.10.1_icon.png)
+Python(Django), Javascript(React, nodeJS), HTML, CSS
